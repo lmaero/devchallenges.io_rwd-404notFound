@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://lmaero-404-not-found.netlify.app/">
+    <a href="https://github.com/lmaero/devchallenges.io_rwd-404notFound">
       Demo
     </a>
     <span> | </span>
